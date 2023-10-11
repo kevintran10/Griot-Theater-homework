@@ -1,0 +1,32 @@
+* {
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+h4 {
+    color: pink;
+}
+
+p {
+    color: red;
+}
+
+.text {
+    color: seagreen;
+}
+
+#first-ele {
+    color: brown;
+}
+
+h5:hover {
+    color: blue;
+}
+
+p:active {
+    color: green;
+    text-shadow: 1px 1px 2px red;    
+}
+
+header > h5 {
+    color: red;
+}

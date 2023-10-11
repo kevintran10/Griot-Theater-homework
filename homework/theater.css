@@ -1,0 +1,36 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav-link, .nav-bar {  
+list-style-type: none;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-evenly;
+}
+
+/* .date {
+    display: inline-block;
+} */
+/* #theater-title {
+    margin-right: 20px;
+} */
+
+header {
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+/* #list1 {
+    text-align: center;
+    list-style-type: none;
+    display: inline;
+    float: center;
+    margin-bottom: 2px;
+} */
